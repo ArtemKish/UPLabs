@@ -1,0 +1,15 @@
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Колледж 4 год\Учебная практика\УП02.01\УП с Кузнецовым\Выполненные задания\3 задание\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
